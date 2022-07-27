@@ -1,3 +1,4 @@
+//connects to the database, takes in username and password to mysql
 const Sequelize = require('sequelize');
 
 require('dotenv').config();
